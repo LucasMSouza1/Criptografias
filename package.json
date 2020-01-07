@@ -1,0 +1,22 @@
+{
+  "name": "criptografias",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para aprendizado das criptografias de César, Vigenère e transposição.",
+  "main": "index.php",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMSouza1/Criptografias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMSouza1/Criptografias/issues"
+  },
+  "homepage": "https://github.com/LucasMSouza1/Criptografias#readme"
+}
